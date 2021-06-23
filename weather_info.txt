@@ -1,0 +1,19 @@
+Description of Weather: hazeDescription of Weather: hazeDescription of Weather: haze
+Temperature in Celsius: 37.620000000000005Humidity is: 32%Wind Speed is: 3.6Cloud Availability is: 75%Description of Weather: haze
+Temperature in Celsius: 37.620000000000005Humidity is: 32%Wind Speed is: 3.6Cloud Availability is: 75%Description of Weather: haze
+Temperature in Celsius: 37.620000000000005Humidity is: 32%Wind Speed is: 3.6Cloud Availability is: 75%Description of Weather: haze
+Temperature in Celsius: 37.620000000000005Humidity is: 32%Wind Speed is: 3.6Cloud Availability is: 75%Description of Weather: haze
+Temperature in Celsius: 37.620000000000005Humidity is: 32%Wind Speed is: 3.6Cloud Availability is: 75%Weather report for JAIPUR at 2021-06-23 09:59:13.646614 is: Description of Weather: haze
+Temperature in Celsius: 37.620000000000005Humidity is: 32%Wind Speed is: 3.6Cloud Availability is: 75%Weather report for JAIPUR at 2021-06-23 10:01:28.933868 is: 
+Description of Weather: haze
+Temperature in Celsius: 37.620000000000005
+Humidity is: 32%
+Wind Speed is: 3.6
+Cloud Availability is: 75%
+
+Weather report for MUMBAI at 2021-06-23 10:02:20.971072 is: 
+Description of Weather: smoke
+Temperature in Celsius: 31.99000000000001
+Humidity is: 70%
+Wind Speed is: 4.63
+Cloud Availability is: 75%
